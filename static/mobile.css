@@ -1,18 +1,10 @@
-@media (max-width: 450px) {
+@media (max-width: 850px) {
     .nav_img {
         display: none;
     }
 
     .nav_text {
         width: 100%;
-    }
-
-    .nav_block {
-        margin-left: -10px !important;
-    }
-
-    .nav_text {
-        margin-left: -20px !important;
     }
 
     .content {
